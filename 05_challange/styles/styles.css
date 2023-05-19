@@ -1,0 +1,28 @@
+#desk{
+    border-radius: 50%;
+    border: 20px solid rgb(68, 65, 65);
+    height: 400px;
+
+}
+#graphic{
+    border-radius: 50%;
+    border: 20px solid rgb(68, 65, 65);
+    height: 400px;
+
+}
+#person{
+    border-radius: 50%;
+    border: 20px solid rgb(68, 65, 65);
+    height: 400px;
+}
+
+.pics{
+    max-width:100%;
+    background-color: gray;;
+}
+header{
+    max-width: 100%;
+}
+#circles{
+    max-width: 100%; 
+}
