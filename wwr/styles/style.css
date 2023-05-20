@@ -6,7 +6,7 @@ body{
     padding: 0;
     font-size: 22px;
     font-family: "Raleway", Helvetica, sans-serif;;
-    text-align: center;
+    /*text-align: center;*/
     background-color: #ffffff;
 }
 
@@ -17,7 +17,7 @@ h2{
 .home-title{
     margin-top: 10px;
     font-size: 2em;
-    font-family: "Staatliches" , Helvetica;
+    font-family: "Staatliches" , Helvetica, sans-serif;
     text-align: center;
     color: #000814;
 }
@@ -49,7 +49,7 @@ nav a{
     border-radius: 5px;
     margin-top: 50px;
     padding: 15px 30px;
-    font-size: 18px4;
+    font-size: 18px;
     text-align: center;
     text-decoration: none;
     background-color: #ffd60a;
@@ -66,13 +66,14 @@ color: #bbbfc3;
 }
 
 .msg{
+    text-align: center;
     padding: 35px;
     background-color: #bbbfc3;
     line-height: 1.5em
 }
 
 .msg h2{
-    font-family: "Staatliches" , Helvetica;
+    font-family: "Staatliches" , Helvetica, sans-serif ;
     color: #000814;
 }
 
@@ -91,6 +92,7 @@ nav, a{
 }
 
 .button-box{
+    text-align: center;
     background-color: white;
 }
 
@@ -154,6 +156,7 @@ footer .social img{
 }
 
 .rivers-card, .camping-card, .rapids-card{
+    text-align: center;
     margin: 200px 0;
 }
 
