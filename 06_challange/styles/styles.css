@@ -1,0 +1,15 @@
+.grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.gray {
+    background-color: rgb(202, 194, 194);
+}
+
+img{
+    siz
+}
+h1{
+    font-size: 100px;
+}
