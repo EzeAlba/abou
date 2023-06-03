@@ -1,0 +1,6 @@
+/* CSS HEX */ pallete
+--black: #000000ff;
+--battleship-gray: #7f9183ff;
+--lapis-lazuli: #166088ff;
+--gamboge: #f29602ff;
+--white: #ffffffff;
