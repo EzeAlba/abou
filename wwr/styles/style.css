@@ -259,42 +259,92 @@ main section img {
     background-color:#bbbfc3 ;
 }
 
-.main-fork{
-    grid-column: 1/10;
+.main-fork-img{
+    margin: 50px;
+    grid-column: 1/10 ;
     grid-row: 1/4;
-    z-index: -1;
-
+    width: 100%;
+    box-shadow: 5px 5px 10px black;
 }
-#river-msg1{
+
+.river-msg1{
+    text-align: center;
+    padding: 35px;
     background-color: #bbbfc3;
+    line-height: 1.5em;
+    grid-column: 8/11 ;
+    grid-row: 2/3;
+    box-shadow: 5px 5px 10px black;
 }
 
-.desolation{
-    grid-column: 1/10;
-    grid-row: 4/7;
-}
-.grand-canyon{
-    grid-column: 1/10;
-    grid-row: 7/10;
+.river-msg1 h2{
+    font-family: "Staatliches" , Helvetica, sans-serif ;
+    color: #000814;
 }
 
+.river-msg1 p{
+    padding-bottom: 15px;
+    font-size: .8em;
+    color: #000814;
+}
 
-
-#main-fork-img{
+.desolation-img{
+    margin: 50px;
+    grid-column: 2/11 ;
+    grid-row: 6/9;
     width: 100%;
-    grid-column: 1/2;
-    grid-row: 1/4;
+    box-shadow: 5px 5px 10px black;
 }
 
-#desolation-img{
+.river-msg2{
+    text-align: center;
+    padding: 35px;
+    background-color: #bbbfc3;
+    line-height: 1.5em;
+    grid-column: 1/4 ;
+    grid-row: 7/8;
+    box-shadow: 5px 5px 10px black;
+}
+
+.river-msg2 h2{
+    font-family: "Staatliches" , Helvetica, sans-serif ;
+    color: #000814;
+}
+
+.river-msg2 p{
+    padding-bottom: 15px;
+    font-size: .8em;
+    color: #000814;
+}
+
+.grand-canyon-img{
+    margin: 50px;
+    grid-column: 1/10 ;
+    grid-row: 10/13;
     width: 100%;
-
+    box-shadow: 5px 5px 10px black;
 }
 
-#grand-canyon-img{
-    width: 100%;
+.river-msg3{
+    text-align: center;
+    padding: 35px;
+    background-color: #bbbfc3;
+    line-height: 1.5em;
+    grid-column: 8/11 ;
+    grid-row: 11/12;
+    box-shadow: 5px 5px 10px black;
 }
 
+.river-msg3 h2{
+    font-family: "Staatliches" , Helvetica, sans-serif ;
+    color: #000814;
+}
+
+.river-msg3 p{
+    padding-bottom: 15px;
+    font-size: .8em;
+    color: #000814;
+}
 
 
 
