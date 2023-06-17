@@ -249,6 +249,58 @@ main section img {
     box-sizing: border-box;
 }
 
+/* Here starts Rivers Childpage */
+.rivers-grid{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+#river-title{
+    text-align: center;
+    background-color:#bbbfc3 ;
+}
+
+.main-fork{
+    grid-column: 1/10;
+    grid-row: 1/4;
+    z-index: -1;
+
+}
+#river-msg1{
+    background-color: #bbbfc3;
+}
+
+.desolation{
+    grid-column: 1/10;
+    grid-row: 4/7;
+}
+.grand-canyon{
+    grid-column: 1/10;
+    grid-row: 7/10;
+}
+
+
+
+#main-fork-img{
+    width: 100%;
+    grid-column: 1/2;
+    grid-row: 1/4;
+}
+
+#desolation-img{
+    width: 100%;
+
+}
+
+#grand-canyon-img{
+    width: 100%;
+}
+
+
+
+
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -290,3 +342,4 @@ main section img {
         margin-top: 25px;
     }
 }
+
