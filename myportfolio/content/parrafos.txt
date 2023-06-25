@@ -22,3 +22,14 @@ Free Content
 In addition to the contact information, my website will provide relevant and valuable content that assists visitors in making informed decisions. This content will include clear descriptions of my services, timelines for project completion, and any other pertinent details that help visitors understand the process of working with me.
 
 Visitors will choose to come to my site over others in the industry because I offer a unique combination of skills, experience, and approach that caters precisely to their needs. Through the diverse examples showcased in my portfolio, visitors will see tangible evidence of the successful results
+
+
+<main class="home-grid">
+    <img class="wireframe-img" src="images/wireframe-idea2.jpg" alt="image of a wireframe">
+    <section class="home-msg">
+        <p>
+            I am a passionate and dedicated professional with experience in Web Design front-end and back-end. 
+            My focus is on Web Pages for small businesses.        
+        </p>
+    </section>
+</main>
